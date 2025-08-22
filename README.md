@@ -26,7 +26,7 @@
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently an **undergraduate majoring in Computer Science** at **VNU-HCM University of Science**  
-- 📚 I’m currently learning **Machine Learning, Deep Learning, and AI Agents**  
+- 📚 I’m currently learning **Machine Learning, Deep Learning**  
 - ⚡ In my free time, I love exploring **new AI technologies, coding side projects, and reading research papers**  
 
 ---
