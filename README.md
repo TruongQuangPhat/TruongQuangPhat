@@ -56,6 +56,7 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch logo" />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow logo" />
 </div>
 
 ---
