@@ -38,6 +38,10 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS logo" />
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo" />
@@ -53,7 +57,6 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow logo" />
-  <img width="12" />
 </div>
 
 ---
