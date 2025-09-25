@@ -31,19 +31,12 @@
 
 ---
 
-### 🛠 Skills
-#### Programming Languages
-
-<div align="left">
+### 🛠 Languages and Tools
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-</div>
-
-#### Tools & Frameworks
-
-<div align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo" />
