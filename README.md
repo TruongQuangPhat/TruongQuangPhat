@@ -41,8 +41,6 @@
   <img width="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50"/>
   <img width="20"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"/>
-  <img width="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50"/>
 </p>
 
@@ -50,6 +48,8 @@
 
 ### 🗄 Database & DevOps
 <p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"/>
+  <img width="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50"/>
   <img width="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50"/>
@@ -77,7 +77,6 @@
 </p>
 
 </div>
-
 ---
 
 ### 🔥 My Stats :
