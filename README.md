@@ -31,44 +31,50 @@
 
 ---
 
-### 🛠 Languages and Tools
+## 🛠 Languages and Tools
 
 <div align="center">
 
-<!-- Row 1 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="45"/>
-<img width="18"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45"/>
-<img width="18"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="45"/>
-<img width="18"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="45"/>
+### 💻 Programming & OS
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50"/>
+</p>
 
-<br><br>
+---
 
-<!-- Row 2 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="45"/>
-<img width="18"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45"/>
-<img width="18"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="45"/>
+### 🗄 Database & DevOps
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50"/>
+</p>
 
-<br><br>
+---
 
-<!-- Row 3 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45"/>
-<img width="18"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="45"/>
-<img width="18"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="45"/>
-<img width="18"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45"/>
-<img width="18"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
-<img width="18"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="45"/>
-<img width="18"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="45"/>
+### 🤖 Data Science & ML
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="50"/>
+</p>
 
 </div>
 
