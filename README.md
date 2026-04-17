@@ -6,11 +6,11 @@
 
 <div align="center">
   <a href="https://www.facebook.com/truong.quang.phat.567010/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25"/>
   </a>
   
   <a href="https://www.linkedin.com/in/phat-truong-quang-9b9213404" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
 </div>
 
