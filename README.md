@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">
         <a href="https://www.facebook.com/truong.quang.phat.567010/" target="_blank">
